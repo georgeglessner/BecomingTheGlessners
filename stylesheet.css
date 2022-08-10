@@ -1,0 +1,25 @@
+.photo {
+    clip-path: circle();
+    width: 50vh;
+    height: 20%;
+    margin-top: -10vh;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('assets/beach2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  * {
+    font-size: 100%;
+    font-family: 'Abril Fatface', serif;
+   }
+
+   p {
+       margin-left: 50vh;
+       margin-right: 50vh;
+   }
