@@ -20,12 +20,12 @@
 }
 
 #location_h1 {
-    margin-bottom: 20px; 
-    margin-top: 25vh;
+    padding-bottom: 20px; 
+    padding-top: 20vh;
 }
 .map-responsive{
     overflow:hidden;
-    padding-bottom:56.25%;
+    padding-bottom:100%;
     position:relative;
     height:0;
 }
