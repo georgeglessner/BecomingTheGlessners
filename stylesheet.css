@@ -19,3 +19,13 @@
     font-family: 'Abril Fatface', serif;
 }
 
+#location_h1 {
+    margin-bottom: 20px; 
+    margin-top: 25vh;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
