@@ -1,8 +1,6 @@
 .photo {
     clip-path: circle();
-    width: 50vh;
-    height: 20%;
-    margin-top: -10vh;
+    width: 45vh;
 }
 
 .masthead {
