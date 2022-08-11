@@ -14,12 +14,8 @@
     background-repeat: no-repeat;
   }
 
-  * {
+* {
     font-size: 100%;
     font-family: 'Abril Fatface', serif;
-   }
+}
 
-   p {
-       margin-left: 50vh;
-       margin-right: 50vh;
-   }
