@@ -12,17 +12,57 @@
     background-repeat: no-repeat;
   }
 
+.masthead-white {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 * {
     font-size: 100%;
-    font-family: 'Abril Fatface', serif;
+    font-family: 'Noto Serif', serif;
 }
 
 #location_h1 {
     padding-top: 10vh;
 }
-.map-responsive{
+
+#date-heading {
+    font-size:4em;
+}
+
+.center{
     overflow:hidden;
-    padding-bottom:100vh;
+    margin-left: auto;
+    margin-right: auto;
     position:relative;
-    height:0;
+}
+
+.lodging a {
+    color: black;
+}
+
+.list-header {
+    padding-bottom: 5vh;
+}
+
+.detail {
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+
+.detail-small {
+    font-size: 1em;
+}
+
+.info {
+    font-size: 1em;
+    overflow:hidden;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
 }
