@@ -66,3 +66,7 @@
     margin-right: auto;
     position:relative;
 }
+
+.bold {
+    font-weight: bold;
+}
