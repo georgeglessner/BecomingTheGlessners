@@ -20,17 +20,16 @@
     background-repeat: no-repeat;
 }
 
-* {
-    font-size: 100%;
-    font-family: 'Noto Serif', serif;
-}
-
 #location_h1 {
     padding-top: 10vh;
 }
 
 #date-heading {
     font-size:4em;
+}
+
+* {
+    font-family: 'Cinzel', serif;
 }
 
 .center{
@@ -44,8 +43,16 @@
     color: black;
 }
 
+@font-face {
+    font-family: amalfi;
+    src: url(assets/Amalfi\ Coast.ttf);
+}
+
 .list-header {
-    padding-bottom: 5vh;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: amalfi;
+    font-size: 75px;
 }
 
 .detail {
